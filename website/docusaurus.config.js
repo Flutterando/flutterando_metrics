@@ -3,12 +3,12 @@ module.exports = {
   title: 'Flutterando Metrics',
   tagline: 'Static analysis tool that helps analyse and improve code quality.',
   url: 'https://flutterando.github.io',
-  baseUrl: '/flutterando-metrics/',
+  baseUrl: '/flutterando_metrics/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Flutterando',
-  projectName: 'flutterando-metrics',
+  projectName: 'flutterando_metrics',
   trailingSlash: false,
   themeConfig: {
     // algolia: {
@@ -56,7 +56,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Flutterando/flutterando-metrics',
+          href: 'https://github.com/Flutterando/flutterando_metrics',
           label: 'GitHub',
           position: 'right',
         },
@@ -83,7 +83,7 @@ module.exports = {
 
             {
               label: 'GitHub Action',
-              href: 'https://github.com/Flutterando/flutterando-metrics-action',
+              href: 'https://github.com/Flutterando/flutterando_metrics-action',
             },
           ],
         },
@@ -104,7 +104,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Flutterando/flutterando-metrics',
+              href: 'https://github.com/Flutterando/flutterando_metrics',
             },
           ],
         },
@@ -137,7 +137,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/Flutterando/flutterando-metrics/tree/master/website/',
+            'https://github.com/Flutterando/flutterando_metrics/tree/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

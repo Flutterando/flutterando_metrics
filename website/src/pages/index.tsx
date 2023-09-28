@@ -30,10 +30,10 @@ function HomepageHeader() {
 
             <span className={styles.githubButton}>
               <GitHubButton
-                href="https://github.com/Flutterando/flutterando-metrics"
+                href="https://github.com/Flutterando/flutterando_metrics"
                 data-size="large"
                 data-show-count="true"
-                aria-label="Star Flutterando/flutterando-metrics on GitHub"
+                aria-label="Star Flutterando/flutterando_metrics on GitHub"
               >
                 Star
               </GitHubButton>

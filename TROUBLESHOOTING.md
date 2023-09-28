@@ -1,8 +1,8 @@
 # Troubleshooting
 
-**Note:** If the plugin is analyzing files it should not analyze (like `.dart_tool/` or an external package source code), please create [an issue](https://github.com/Flutterando/flutterando-metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+), it's most likely a bug.
+**Note:** If the plugin is analyzing files it should not analyze (like `.dart_tool/` or an external package source code), please create [an issue](https://github.com/Flutterando/flutterando_metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+), it's most likely a bug.
 
-If the plugin is not working as you'd expect it to work, please consider going through the following steps before creating [an issue](https://github.com/Flutterando/flutterando-metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+):
+If the plugin is not working as you'd expect it to work, please consider going through the following steps before creating [an issue](https://github.com/Flutterando/flutterando_metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+):
 
 1. Check that the plugin is added to an `analyzer` entry in the `analysis_options.yaml` as described in the [Configuration](./README.md#Configuration) section.
 
@@ -21,4 +21,4 @@ If the plugin is not working as you'd expect it to work, please consider going t
 
     To check that the plugin is active, open the `Plugins` tab and ensure that there is no errors.
 
-    If there is an error or the plugin is still not working as expected, please create [an issue](https://github.com/Flutterando/flutterando-metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+) with the `Plugins`  page screenshot, it will be very useful for an investigation.
+    If there is an error or the plugin is still not working as expected, please create [an issue](https://github.com/Flutterando/flutterando_metrics/issues/new?assignees=dkrutskikh&labels=bug&template=bug-report.md&title=%5BBUG%5D+) with the `Plugins`  page screenshot, it will be very useful for an investigation.

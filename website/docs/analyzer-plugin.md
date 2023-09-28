@@ -26,4 +26,4 @@ Rules that marked with a `has auto-fix` badge have auto-fixes available through 
 
 ## Troubleshooting the plugin integration {#troubleshooting-the-plugin-integration}
 
-If you have a problem with the plugin, refer to the [troubleshooting docs](https://github.com/Flutterando/flutterando-metrics/blob/master/TROUBLESHOOTING.md).
+If you have a problem with the plugin, refer to the [troubleshooting docs](https://github.com/Flutterando/flutterando_metrics/blob/master/TROUBLESHOOTING.md).

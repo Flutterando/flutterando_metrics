@@ -27,7 +27,7 @@
   ```
 
 * run `dart pub publish`
-* create a [new draft release on GitHub](https://github.com/Flutterando/flutterando-metrics/releases)
+* create a [new draft release on GitHub](https://github.com/Flutterando/flutterando_metrics/releases)
   * select the newly created tag
   * generate release notes (clean them from the dependabot updates)
   * publish release

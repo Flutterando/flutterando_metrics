@@ -1,13 +1,13 @@
-[![Build Status](https://shields.io/github/actions/workflow/status/Flutterando/flutterando-metrics/package_analyze.yaml?logo=github&logoColor=white&branch=master)](https://github.com/Flutterando/flutterando-metrics/)
-[![Coverage Status](https://img.shields.io/codecov/c/github/Flutterando/flutterando-metrics?logo=codecov&logoColor=white)](https://codecov.io/gh/Flutterando/flutterando-metrics/)
+[![Build Status](https://shields.io/github/actions/workflow/status/Flutterando/flutterando_metrics/package_analyze.yaml?logo=github&logoColor=white&branch=master)](https://github.com/Flutterando/flutterando_metrics/)
+[![Coverage Status](https://img.shields.io/codecov/c/github/Flutterando/flutterando_metrics?logo=codecov&logoColor=white)](https://codecov.io/gh/Flutterando/flutterando_metrics/)
 [![Pub Version](https://img.shields.io/pub/v/flutterando_metrics?logo=dart&logoColor=white)](https://pub.dev/packages/flutterando_metrics/)
 [![Dart SDK Version](https://badgen.net/pub/sdk-version/flutterando_metrics)](https://pub.dev/packages/flutterando_metrics/)
-[![License](https://img.shields.io/github/license/Flutterando/flutterando-metrics)](https://github.com/Flutterando/flutterando-metrics/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Flutterando/flutterando_metrics)](https://github.com/Flutterando/flutterando_metrics/blob/master/LICENSE)
 [![Pub popularity](https://badgen.net/pub/popularity/flutterando_metrics)](https://pub.dev/packages/flutterando_metrics/score)
-[![GitHub popularity](https://img.shields.io/github/stars/Flutterando/flutterando-metrics?logo=github&logoColor=white)](https://github.com/Flutterando/flutterando-metrics/stargazers)
+[![GitHub popularity](https://img.shields.io/github/stars/Flutterando/flutterando_metrics?logo=github&logoColor=white)](https://github.com/Flutterando/flutterando_metrics/stargazers)
 
 <img
-  src="https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/logo.svg"
+  src="https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/logo.svg"
   alt="Flutterando Metrics logo"
   height="150" width="150"
   align="right">
@@ -33,9 +33,9 @@ Flutterando Metrics is a toolkit that helps you identify and fix problems in you
 
 ## Links
 
-- See [CHANGELOG.md](./CHANGELOG.md) for major/breaking updates, and [releases](https://github.com/Flutterando/flutterando-metrics/releases) for a detailed version history.
+- See [CHANGELOG.md](./CHANGELOG.md) for major/breaking updates, and [releases](https://github.com/Flutterando/flutterando_metrics/releases) for a detailed version history.
 - To contribute, please read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
-- Please [open an issue](https://github.com/Flutterando/flutterando-metrics/issues/new?assignees=dkrutskikh&labels=question&template=question.md&title=%5BQuestion%5D+) if anything is missing or unclear in this documentation.
+- Please [open an issue](https://github.com/Flutterando/flutterando_metrics/issues/new?assignees=dkrutskikh&labels=question&template=question.md&title=%5BQuestion%5D+) if anything is missing or unclear in this documentation.
 
 ## Installation
 
@@ -110,7 +110,7 @@ It will produce a result in one of the format:
 
 Console report example:
 
-![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/analyze-console-report.png)
+![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/analyze-console-report.png)
 
 #### Check unnecessary nullable parameters
 
@@ -130,7 +130,7 @@ It will produce a result in one of the format:
 
 Console report example:
 
-![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/unnecessary-nullable-console-report.png)
+![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/unnecessary-nullable-console-report.png)
 
 #### Check unused files
 
@@ -150,7 +150,7 @@ It will produce a result in one of the format:
 
 Console report example:
 
-![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/unused-files-console-report.png)
+![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/unused-files-console-report.png)
 
 #### Check unused localization
 
@@ -187,7 +187,7 @@ It will produce a result in one of the format:
 
 Console report example:
 
-![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/unused-l10n-console-report.png)
+![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/unused-l10n-console-report.png)
 
 #### Check unused code
 
@@ -207,7 +207,7 @@ It will produce a result in one of the format:
 
 Console report example:
 
-![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando-metrics/master/assets/unused-code-console-report.png)
+![Console report example](https://raw.githubusercontent.com/Flutterando/flutterando_metrics/master/assets/unused-code-console-report.png)
 
 ## Troubleshooting
 
@@ -215,7 +215,7 @@ Please read [the following guide](./TROUBLESHOOTING.md) if the plugin is not wor
 
 ## Contributing
 
-If you are interested in contributing, please check out the [contribution guidelines](https://github.com/Flutterando/flutterando-metrics/blob/master/CONTRIBUTING.md). Feedback and contributions are welcome!
+If you are interested in contributing, please check out the [contribution guidelines](https://github.com/Flutterando/flutterando_metrics/blob/master/CONTRIBUTING.md). Feedback and contributions are welcome!
 
 
 ## LICENSE
