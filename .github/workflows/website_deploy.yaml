@@ -3,7 +3,7 @@ name: "Deploy website"
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "website/**"
       - ".github/workflows/website_deploy.yaml"
