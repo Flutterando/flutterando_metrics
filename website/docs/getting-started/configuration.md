@@ -58,7 +58,7 @@ flutterando_metrics:
     - avoid-banned-imports: false
 ```
 
-All predefined preset [can be found here](https://github.com/Flutterando/flutterando_metrics/tree/master/lib/presets).
+All predefined preset [can be found here](https://github.com/Flutterando/flutterando-metrics/tree/master/lib/presets).
 
 ## Configuring a metrics entry {#configuring-a-metrics-entry}
 

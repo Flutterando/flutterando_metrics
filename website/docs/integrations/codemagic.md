@@ -24,7 +24,7 @@ check out [Codemagic docs](https://docs.codemagic.io/yaml-testing/dart-code-metr
 
 To enable Flutterando Metrics check the `Enable Flutterando Metrics` option:
 
-![Flutterando Metrics Flutter workflow editor](../../static/img/dcm-flutter-workflow-editor.png)
+![Flutterando Metrics Flutter workflow editor](../../static/img/flutter-workflow-editor.png)
 
 check out [Codemagic docs](https://docs.codemagic.io/flutter-testing/static-code-analysis/#dart-code-metrics) for more details about the Flutter workflow editor setup.
 
@@ -32,10 +32,10 @@ check out [Codemagic docs](https://docs.codemagic.io/flutter-testing/static-code
 
 #### Results preview {#results-preview}
 
-![Flutterando Metrics results](../../static/img/dcm-results.png)
+![Flutterando Metrics results](../../static/img/results.png)
 
-![Flutterando Metrics results expanded](../../static/img/dcm-results-expanded.png)
+![Flutterando Metrics results expanded](../../static/img/results-expanded.png)
 
 #### Logs {#logs}
 
-![Flutterando Metrics logs](../../static/img/dcm-logs.png)
+![Flutterando Metrics logs](../../static/img/logs.png)

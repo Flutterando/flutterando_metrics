@@ -23,17 +23,17 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--primary button--lg"
-              to="/docs/getting-started/introduction"
+              to="/docs/introduction"
             >
               Get Started
             </Link>
 
             <span className={styles.githubButton}>
               <GitHubButton
-                href="https://github.com/Flutterando/flutterando_metrics"
+                href="https://github.com/Flutterando/flutterando-metrics"
                 data-size="large"
                 data-show-count="true"
-                aria-label="Star Flutterando/flutterando_metrics on GitHub"
+                aria-label="Star Flutterando/flutterando-metrics on GitHub"
               >
                 Star
               </GitHubButton>

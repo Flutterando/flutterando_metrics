@@ -2,13 +2,9 @@
 
 
 
-## 5.7.6
+## 5.7.7
 
 * chore: restrict `analyzer` version to `>=5.1.0 <5.14.0`.
-
-## 5.7.2
-
-* chore: update website links.
 
 ## 5.7.1
 

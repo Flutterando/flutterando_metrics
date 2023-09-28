@@ -63,7 +63,7 @@ metrics:
 
 ## Calling the cli from your own package with the linter configuration
 
-If you have a separate package with all the linter and DCM configurations which is used by your other packages and you want to call DCM transitively add a `bin` folder with a Dart file, for example
+If you have a separate package with all the linter and Flutterando metrics configurations which is used by your other packages and you want to call Flutterando metrics transitively add a `bin` folder with a Dart file, for example
 
 ```dart metrics.dart
 import 'package:flutterando_metrics/cli_runner.dart';
@@ -73,4 +73,4 @@ Future<void> main(List<String> args) async {
 }
 ```
 
-After that you will be able to run DCM by calling your package executable.
+After that you will be able to run Flutterando metrics by calling your package executable.

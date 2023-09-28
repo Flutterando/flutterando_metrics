@@ -4,24 +4,24 @@
 
 ## Usage {#usage}
 
-Create `dartcodemetrics.yaml` under `.github/workflows` with the following content (the default configuration listed):
+Create `flutterandometrics.yaml` under `.github/workflows` with the following content (the default configuration listed):
 
-```yml title="dartcodemetrics.yaml"
+```yml title="flutterandometrics.yaml"
 name: Flutterando Metrics
 
 on: [push]
 
 jobs:
   check:
-    name: dart-code-metrics-action
+    name: flutterando-metrics-action
 
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: dart-code-metrics
-        uses: dart-code-checker/dart-code-metrics-action@v1
+      - name: flutterando-metrics
+        uses: Flutterando/flutterando-metrics-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 ```

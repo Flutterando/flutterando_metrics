@@ -1,57 +1,36 @@
+import Translate, { translate } from '@docusaurus/Translate';
 import clsx from 'clsx';
 import React from 'react';
 import styles from './HomepageFeatures.module.css';
 
+
+
 const FeatureList = [
   {
-    title: 'Improve your code quality',
+    title: translate({ message: 'featureList.code' }),
     Svg: require('../../static/img/quality.svg').default,
     description: (
-      <>
-        Flutterando Metrics checks for anti-patterns and reports code metrics to
-        help you monitor the quality of your code and improve it.
-      </>
+      <Translate>
+        featureList.code.description
+      </Translate>
     ),
   },
   {
-    title: 'Additional rules',
-    Svg: require('../../static/img/rules.svg').default,
-    description: (
-      <>
-        Flutterando Metrics provides additional configurable rules for the Dart
-        analyzer.
-      </>
-    ),
-  },
-  {
-    title: 'Use as Analyzer plugin',
-    Svg: require('../../static/img/plugin.svg').default,
-    description: (
-      <>
-        Connecting Flutterando Metrics as a plugin to the Analysis Server allows
-        you to receive real-time feedback directly from the IDE.
-      </>
-    ),
-  },
-  {
-    title: 'Integrate into the CI/CD process',
+    title: translate({ message: 'featureList.cicd' }),
     Svg: require('../../static/img/ci.svg').default,
     description: (
-      <>
-        Launching via the command line allows you to easily integrate Dart Code
-        Metrics into the CI/CD process, and you can get results in Сonsole,
-        HTML, JSON, CodeClimate, or GitHub.
-      </>
+      <Translate>
+        featureList.cicd.description
+      </Translate>
     ),
   },
   {
-    title: 'Community-friendly',
+    title: translate({ message: 'featureList.community' }),
     Svg: require('../../static/img/feedback.svg').default,
     description: (
-      <>
-        Flutterando Metrics is developed by community for community. Your feedback
-        and PRs won't be ignored.
-      </>
+      <Translate>
+        featureList.community.description
+      </Translate>
     ),
   },
 ];

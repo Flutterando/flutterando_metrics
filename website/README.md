@@ -1,6 +1,6 @@
 # Flutterando Metrics website
 
-**Note:** If you are looking for Flutterando Metrics source code, it's [located here](https://github.com/Flutterando/flutterando_metrics).
+**Note:** If you are looking for Flutterando Metrics source code, it's [located here](https://github.com/Flutterando/flutterando-metrics).
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -36,4 +36,4 @@ GIT_USER=<Your GitHub username> USE_SSH=true npm run deploy
 
 ## Contributing
 
-If you have any ideas on how to improve the docs, please [open an issue](https://github.com/Flutterando/flutterando_metrics/issues/new).
+If you have any ideas on how to improve the docs, please [open an issue](https://github.com/Flutterando/flutterando-metrics/issues/new).

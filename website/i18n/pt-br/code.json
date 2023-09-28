@@ -1,0 +1,22 @@
+{
+    "featureList.code": {
+        "message": "Melhora na qualidade do codigo",
+        "description": "O Flutterando Metrics verifica antipadrões e relata métricas de código para ajudá-lo a monitorar a qualidade do seu código e melhorá-lo."
+    },
+    "featureList.code.description": {
+        "message": "O Flutterando Metrics verifica antipadrões e relata métricas de código para ajudá-lo a monitorar a qualidade do seu código e melhorá-lo."
+    },
+    "featureList.cicd": {
+        "message": "Integre ao processo de CI/CD",
+        "description": "A inicialização por meio da linha de comando permite que você integre facilmente o Dart Code Metrics ao processo de CI/CD e obtenha resultados no console, HTML, JSON, CodeClimate ou GitHub."
+    },
+    "featureList.cicd.description": {
+        "message": "A inicialização por meio da linha de comando permite que você integre facilmente o Dart Code Metrics ao processo de CI/CD e obtenha resultados no console, HTML, JSON, CodeClimate ou GitHub."
+    },
+    "featureList.community": {
+        "message": "Community-friendly"
+    },
+    "featureList.community.description": {
+        "message": "O Flutterando Metrics é desenvolvido de comunidade para comunidade."
+    }
+}
