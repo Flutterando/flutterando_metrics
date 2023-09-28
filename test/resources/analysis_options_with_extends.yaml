@@ -7,7 +7,7 @@ analyzer:
     implicit-casts: false
     implicit-dynamic: false
 
-dart_code_metrics:
+flutterando_metrics:
   extends:
     - package:test_lints/presets.yaml
   metrics-exclude:

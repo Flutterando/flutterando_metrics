@@ -1,13 +1,13 @@
-name: dart_code_metrics
-version: 5.7.5
-description: Software analytics tool that helps developers analyse and improve software quality.
-homepage: https://dcm.dev/
-repository: https://github.com/dart-code-checker/dart-code-metrics
-issue_tracker: https://github.com/dart-code-checker/dart-code-metrics/issues
-documentation: https://dcm.dev/docs/getting-started/
+name: flutterando_metrics
+version: 5.7.6
+description: Software analytics tool that helps developers analyses and improve software quality.
+homepage: https://metrics.flutterando.com.br/
+repository: https://github.com/Flutterando/flutterando-metrics/
+issue_tracker: https://github.com/Flutterando/flutterando-metrics/issues/
+documentation: https://metrics.flutterando.com.br/docs/getting-started/
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <4.0.0"
 
 platforms:
   linux:
@@ -21,7 +21,6 @@ dependencies:
   args: ^2.0.0
   collection: ^1.16.0
   crypto: ^3.0.0
-  dart_code_metrics_presets: ^1.0.1
   file: ^6.0.0
   glob: ^2.0.1
   html: ">=0.15.0 <1.0.0"

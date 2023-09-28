@@ -28,7 +28,7 @@ class AnalyzerPlugin extends ServerPlugin {
 
   @override
   String get contactInfo =>
-      'https://github.com/dart-code-checker/dart-code-metrics/issues';
+      'https://github.com/Flutterando/flutterando-metrics/issues';
 
   @override
   List<String> get fileGlobsToAnalyze => const ['*.dart', '*.yaml'];

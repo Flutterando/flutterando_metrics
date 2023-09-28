@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dart_code_metrics/src/cli/utils/detect_sdk_path.dart';
+import 'package:flutterando_metrics/src/cli/utils/detect_sdk_path.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:path/path.dart';
 import 'package:test/test.dart';

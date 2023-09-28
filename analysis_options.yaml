@@ -14,9 +14,9 @@ analyzer:
     strict-inference: true
     strict-raw-types: true
   plugins:
-    - dart_code_metrics
+    - flutterando_metrics
 
-dart_code_metrics:
+flutterando_metrics:
   anti-patterns:
     - long-method
     - long-parameter-list

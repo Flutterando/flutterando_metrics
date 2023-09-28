@@ -13,8 +13,8 @@ String? detectSdkPath(
   // from system %PATH% environment variable.
   //
   // See
-  // https://github.com/dart-code-checker/dart-code-metrics/issues/385
-  // https://github.com/dart-code-checker/dart-code-metrics/pull/430
+  // https://github.com/Flutterando/flutterando-metrics/issues/385
+  // https://github.com/Flutterando/flutterando-metrics/pull/430
   const dartExeFileName = 'dart.exe';
 
   if (platformIsWindows &&

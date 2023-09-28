@@ -1,4 +1,4 @@
-import 'package:dart_code_metrics/src/config_builder/analysis_options_utils.dart';
+import 'package:flutterando_metrics/src/config_builder/analysis_options_utils.dart';
 import 'package:test/test.dart';
 
 const _defaults = {

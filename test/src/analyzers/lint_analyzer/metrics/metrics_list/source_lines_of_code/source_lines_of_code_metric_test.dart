@@ -1,6 +1,6 @@
-import 'package:dart_code_metrics/src/analyzers/lint_analyzer/metrics/metrics_list/source_lines_of_code/source_lines_of_code_metric.dart';
-import 'package:dart_code_metrics/src/analyzers/lint_analyzer/metrics/models/metric_value_level.dart';
-import 'package:dart_code_metrics/src/analyzers/lint_analyzer/metrics/scope_visitor.dart';
+import 'package:flutterando_metrics/src/analyzers/lint_analyzer/metrics/metrics_list/source_lines_of_code/source_lines_of_code_metric.dart';
+import 'package:flutterando_metrics/src/analyzers/lint_analyzer/metrics/models/metric_value_level.dart';
+import 'package:flutterando_metrics/src/analyzers/lint_analyzer/metrics/scope_visitor.dart';
 import 'package:test/test.dart';
 
 import '../../../../../helpers/file_resolver.dart';
@@ -41,8 +41,8 @@ Future<void> main() async {
         metricValue.context.single.message,
         equals('line contains source code'),
       );
-      expect(metricValue.context.single.location.start.offset, equals(450));
-      expect(metricValue.context.single.location.end.offset, equals(450));
+      expect(metricValue.context.single.location.start.offset, equals(458));
+      expect(metricValue.context.single.location.end.offset, equals(458));
     });
 
     test('class method', () {

@@ -1,4 +1,4 @@
-import 'package:dart_code_metrics/src/cli/cli_runner.dart';
+import 'package:flutterando_metrics/src/cli/cli_runner.dart';
 import 'package:path/path.dart' as p;
 import 'package:test/test.dart';
 

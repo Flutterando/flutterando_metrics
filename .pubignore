@@ -3,7 +3,6 @@
 /coverage/*
 /doc/*
 /metrics/*
-/tool/*
 /website/*
 /codecov.yaml
 /dart_dependency_validator.yaml

@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dart_code_metrics/src/cli/cli_runner.dart';
+import 'package:flutterando_metrics/src/cli/cli_runner.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:pub_updater/pub_updater.dart';
 import 'package:test/test.dart';

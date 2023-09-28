@@ -1,5 +1,5 @@
-import 'package:dart_code_metrics/src/analyzers/lint_analyzer/metrics/models/metric_value_level.dart';
-import 'package:dart_code_metrics/src/analyzers/lint_analyzer/reporters/reporters_list/html/components/report_details_tooltip.dart';
+import 'package:flutterando_metrics/src/analyzers/lint_analyzer/metrics/models/metric_value_level.dart';
+import 'package:flutterando_metrics/src/analyzers/lint_analyzer/reporters/reporters_list/html/components/report_details_tooltip.dart';
 import 'package:test/test.dart';
 
 import '../../../../../../../stubs_builders.dart';
