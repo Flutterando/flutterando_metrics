@@ -1,6 +1,6 @@
 # Anti-patterns
 
-Anti-patterns configuration is [described here](./getting-started/configuration#configuring-an-anti-pattern-entry).
+Anti-patterns configuration is [described here](../../../docs/getting-started/configuration.md#configuring-an-anti-pattern-entry).
 
 Available anti-patterns:
 

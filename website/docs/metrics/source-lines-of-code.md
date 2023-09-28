@@ -6,7 +6,7 @@ This metric is used to measure the size of a computer program by counting the nu
 
 ## Used for {#used-for}
 
-* [Long Method](../anti-patterns/long-method.md)
+* [Long Method](../metrics/anti-patterns/long-method.md)
 
 ## Config example {#config-example}
 

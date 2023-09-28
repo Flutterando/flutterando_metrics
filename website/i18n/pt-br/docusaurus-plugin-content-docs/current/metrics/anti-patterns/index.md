@@ -1,6 +1,6 @@
 # Anti-padrões
 
-A configuração de anti-padrões está [descrita aqui](./getting-started/configuration#configuring-an-anti-pattern-entry).
+A configuração de anti-padrões está [descrita aqui](../../../../../pt-br/docusaurus-plugin-content-docs/current/getting-started/configuration.md#configuring-an-anti-pattern-entry).
 
 Anti-padrões disponíveis:
 

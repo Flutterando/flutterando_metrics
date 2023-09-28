@@ -2,7 +2,7 @@
 
 Metrics are grouped by a category to help you understand their purpose.
 
-Metrics configuration is [described here](./getting-started/configuration#configuring-a-metrics-entry).
+Metrics configuration is [described here](../getting-started/configuration#configuring-metrics-entry).
 
 ## Function specific metrics {#function-specific-metrics}
 

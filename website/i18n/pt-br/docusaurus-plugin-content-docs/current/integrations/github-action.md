@@ -1,6 +1,6 @@
 # GitHub Actions
 
-[Action do GitHub do Flutterando Metrics](https://github.com/marketplace/actions/flutterando-metrics-action) permite que você integre o Flutterando Metrics em seu processo de CI/CD e obtenha relatórios de qualidade de código dentro dos PR's.
+[Action do GitHub do Flutterando Metrics](https://github.com/marketplace/actions/flutterando_metrics-action) permite que você integre o Flutterando Metrics em seu processo de CI/CD e obtenha relatórios de qualidade de código dentro dos PR's.
 
 ## Uso {#usage}
 
@@ -13,15 +13,15 @@ on: [push]
 
 jobs:
   check:
-    name: flutterando-metrics-action
+    name: flutterando_metrics-action
 
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: flutterando-metrics
-        uses: Flutterando/flutterando-metrics-action@v1
+      - name: flutterando_metrics
+        uses: Flutterando/flutterando_metrics-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 ```

@@ -10,7 +10,7 @@ Lines of code with clarification comments are usually a sign for possible method
 
 ## Detection strategy {#detection-strategy}
 
-Uses [`Source lines of Code`](../metrics/source-lines-of-code.md) value and compares it with configured threshold.
+Uses [`Source lines of Code`](../../metrics/source-lines-of-code.md) value and compares it with configured threshold.
 
 ## Exceptions {#exceptions}
 

@@ -13,15 +13,15 @@ on: [push]
 
 jobs:
   check:
-    name: flutterando-metrics-action
+    name: flutterando_metrics-action
 
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: flutterando-metrics
-        uses: Flutterando/flutterando-metrics-action@v1
+      - name: flutterando_metrics
+        uses: Flutterando/flutterando_metrics-action@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 ```

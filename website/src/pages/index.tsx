@@ -1,4 +1,5 @@
 import Link from '@docusaurus/Link';
+import Translate from '@docusaurus/Translate';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
@@ -7,6 +8,7 @@ import GitHubButton from 'react-github-btn';
 import Logo from '../../static/img/logo.svg';
 import HomepageFeatures from '../components/HomepageFeatures';
 import styles from './index.module.css';
+
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -18,7 +20,8 @@ function HomepageHeader() {
         <div className={clsx(styles.heroContainerCaption)}>
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">
-            Analyse and improve your code quality.
+          <Translate>featureList.home</Translate>
+
           </p>
           <div className={styles.buttons}>
             <Link
@@ -30,10 +33,10 @@ function HomepageHeader() {
 
             <span className={styles.githubButton}>
               <GitHubButton
-                href="https://github.com/Flutterando/flutterando-metrics"
+                href="https://github.com/Flutterando/flutterando_metrics"
                 data-size="large"
                 data-show-count="true"
-                aria-label="Star Flutterando/flutterando-metrics on GitHub"
+                aria-label="Star Flutterando/flutterando_metrics on GitHub"
               >
                 Star
               </GitHubButton>

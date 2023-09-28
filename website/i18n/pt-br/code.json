@@ -1,4 +1,7 @@
 {
+    "featureList.home": {
+        "message": "Analise e melhore a qualidade do seu código."
+    },
     "featureList.code": {
         "message": "Melhora na qualidade do codigo",
         "description": "O Flutterando Metrics verifica antipadrões e relata métricas de código para ajudá-lo a monitorar a qualidade do seu código e melhorá-lo."

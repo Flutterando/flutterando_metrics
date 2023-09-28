@@ -37,9 +37,6 @@ $ flutter pub get
 
 ## Usage {#usage}
 
-### Analyzer plugin {#analyzer-plugin}
-
-To use Flutterando Metrics as a plugin to the Dart analyzer refer to the [Analyzer Plugin documentation section](../analyzer-plugin.md).
 
 ### CLI {#cli}
 
@@ -47,4 +44,4 @@ To use Flutterando Metrics as a command-line tool refer to the [Command Line Int
 
 ### Library {#library}
 
-To use Flutterando Metrics as a library refer to this [example](https://github.com/Flutterando/flutterando-metrics/blob/master/example/lib/main.dart).
+To use Flutterando Metrics as a library refer to this [example](https://github.com/Flutterando/flutterando_metrics/blob/master/example/lib/main.dart).

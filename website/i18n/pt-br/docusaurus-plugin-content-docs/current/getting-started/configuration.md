@@ -59,9 +59,9 @@ flutterando_metrics:
     - avoid-banned-imports: false
 ```
 
-Todas as predefinições [podem ser encontradas aqui](https://github.com/Flutterando/flutterando-metrics/tree/master/lib/presets).
+Todas as predefinições [podem ser encontradas aqui](https://github.com/Flutterando/flutterando_metrics/tree/master/lib/presets).
 
-## Configurando uma entrada de métrica {#configuring-a-metrics-entry}
+## Configurando uma entrada de métrica {#configuring-metrics-entry}
 
 Para habilitar uma métrica, adicione seu ID à entrada `metrics` no `analysis_options.yaml`. Todas as métricas podem receber um valor de limite. Se nenhum valor for fornecido, o valor padrão será usado.
 

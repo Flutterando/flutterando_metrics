@@ -10,7 +10,7 @@ Linhas de código com comentários de esclarecimento geralmente são um sinal de
 
 ## Estratégia de detecção {#detection-strategy}
 
-Usa o valor de [`Source lines of Code`](../metrics/source-lines-of-code.md) e compara-o com o limite configurado.
+Usa o valor de [`Source lines of Code`](../../metrics/source-lines-of-code.md) e compara-o com o limite configurado.
 
 ## Exceções {#exceptions}
 

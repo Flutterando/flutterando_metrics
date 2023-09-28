@@ -58,9 +58,9 @@ flutterando_metrics:
     - avoid-banned-imports: false
 ```
 
-All predefined preset [can be found here](https://github.com/Flutterando/flutterando-metrics/tree/master/lib/presets).
+All predefined preset [can be found here](https://github.com/Flutterando/flutterando_metrics/tree/master/lib/presets).
 
-## Configuring a metrics entry {#configuring-a-metrics-entry}
+## Configuring a metrics entry {#configuring-metrics-entry}
 
 To enable a metric add its id to the `metrics` entry in the `analysis_options.yaml`. All metrics can take a threshold value. If no value was provided, the default value will be used.
 

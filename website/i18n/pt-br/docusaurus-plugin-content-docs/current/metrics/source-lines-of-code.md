@@ -6,7 +6,7 @@ Esta métrica é usada para medir o tamanho de um programa de computador, contan
 
 ## Usado para {#used-for}
 
-* [Método Longo](../anti-patterns/long-method.md)
+* [Método Longo](../metrics/anti-patterns/long-method.md)
 
 ## Exemplo de configuração {#config-example}
 

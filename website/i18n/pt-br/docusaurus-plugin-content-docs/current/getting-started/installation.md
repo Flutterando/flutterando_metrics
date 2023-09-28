@@ -49,4 +49,4 @@ Para usar o Flutterando Metrics como uma ferramenta de linha de comando, consult
 
 ### Biblioteca {#library}
 
-Para usar o Flutterando Metrics como uma biblioteca, consulte este [exemplo](https://github.com/Flutterando/flutterando-metrics/blob/master/example/lib/main.dart).
+Para usar o Flutterando Metrics como uma biblioteca, consulte este [exemplo](https://github.com/Flutterando/flutterando_metrics/blob/master/example/lib/main.dart).
